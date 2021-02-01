@@ -1,9 +1,9 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 01.02.2021 
-**Name:** Vahap Onur
-**Surname:** YILDIRIM
+**Course Date:** 01.02.2021 <br>
+**Name:** Vahap Onur <br>
+**Surname:** YILDIRIM<br>
 **Email:** vahaponuryildirim@gmail.com 
 
 
