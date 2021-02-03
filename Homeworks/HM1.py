@@ -19,6 +19,7 @@ while n<0 or n>10:
 modlist=list(range(n+1))
 odd_squares = [i for i in modlist if i% 2 == 1]
 print("Odd numbers 0 to your value are:",odd_squares)
+#ask user if want to move on
 request=input("If you want to continue type 'move', to finish type 'finish' : ")
 while request != "finish" and request != "move":
     request=input("Wrong!!! to continue type 'move', to finish type 'finish': ")
